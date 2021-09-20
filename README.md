@@ -19,4 +19,4 @@ This is a script that seeks to automate part of the sysadmin's work in terms of 
 
 Introduzca una opcion:
 ```
-Thanks to @erik451
+Thanks to [@erik451](https://twitter.com/Eriik451)
