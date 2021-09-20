@@ -1,5 +1,5 @@
 # ADUG
-This is a script that seeks to automate part of the sysadmin's work in terms of creating users, groups, organizational units and other functions.
+This is a script that seeks to automate part of the sysadmin's work in terms of creating users, groups, organizational units and other functions. his script serves as the basis for task automation in AD environment.
 
 ```powershell
      _     ____   _   _   ____ 
@@ -19,3 +19,4 @@ This is a script that seeks to automate part of the sysadmin's work in terms of 
 
 Introduzca una opcion:
 ```
+Thanks to @erik451
